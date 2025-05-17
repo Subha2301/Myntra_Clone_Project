@@ -1,1 +1,1 @@
-# Myntra_Clone_Project
+A colne of the renowned online fashion store,Myntra
