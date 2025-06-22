@@ -1,1 +1,1 @@
-A colne of the renowned online fashion store,Myntra
+A clone of the renowned online fashion store Myntra.
